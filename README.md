@@ -7,3 +7,8 @@ Features:
     Responsive Controls
     Score Tracking
     Intuitive Gameplay
+______________________________________________________________________________________________________________________________________________________________________________
+
+HOW TO PLAY?
+1. DOWNLOAD THE FILES, "MAIN.JAVA" AND "SNAKEGAME.JAVA"
+2. RUN "MAIN.JAVA"
